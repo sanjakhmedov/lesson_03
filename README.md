@@ -2,4 +2,4 @@
 
 added local text
 
-added remote text
+conflict
